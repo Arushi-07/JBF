@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="red">#FF4951</color>
+    <color name="white">#FFFFFF</color>
+    <color name="underline">#FFFFFF</color>
+    <color name="fbloginColor">#444B9B</color>
+    <color name="homeBlue">#444B9B</color>
+    <color name="hintColor">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="tintColor">#e01b3fbb</color>
+    <color name="splash_background">#a8ff4951</color>
+    <color name="translucent">#a5ffffff</color>
+    <color name="lightBlue">#3090C7</color>
+    <color name="darkGrey">#000000</color>
+    <color name="lightGrey">#000000</color>
+    <color name="DarkRed">#000000</color>
+    <color name="SapphireBlue">#2554C7</color>
+    <color name="FerrariRed">#F70D1A</color>
+    <color name="lightestGrey">#D1D0CE</color>
+    <color name="turquoise">#3EA99F</color>
+    <color name="redText">#FF6861</color>
+    <color name="lighestBlue">#bddfeb</color>
+</resources>
+
